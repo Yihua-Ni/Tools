@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -O3 -lpthread  -fopenmp  -shared -Wl,-soname,libTools.so -o libTools.so CMakeFiles/Tools.dir/tools/post.cpp.o CMakeFiles/Tools.dir/tools/tools.cpp.o 

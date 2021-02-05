@@ -1,0 +1,5 @@
+/home/minieye/桌面/ICP/build/CMakeFiles/ICP.dir
+/home/minieye/桌面/ICP/build/CMakeFiles/edit_cache.dir
+/home/minieye/桌面/ICP/build/CMakeFiles/Tools.dir
+/home/minieye/桌面/ICP/build/CMakeFiles/rebuild_cache.dir
+/home/minieye/桌面/ICP/build/CMakeFiles/test.dir

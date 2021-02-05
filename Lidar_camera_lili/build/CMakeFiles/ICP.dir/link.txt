@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -O3 -lpthread  -fopenmp  -shared -Wl,-soname,libICP.so -o libICP.so CMakeFiles/ICP.dir/icp/icp.cpp.o 

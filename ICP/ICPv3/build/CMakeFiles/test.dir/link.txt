@@ -1,0 +1,1 @@
+/usr/bin/c++    -O3 -lpthread   CMakeFiles/test.dir/Test/test.cpp.o  -o test -rdynamic libICP.a libTools.a 

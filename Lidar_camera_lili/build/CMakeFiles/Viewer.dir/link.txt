@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -O3 -lpthread  -fopenmp  -shared -Wl,-soname,libViewer.so -o libViewer.so CMakeFiles/Viewer.dir/viewer/viewer.cpp.o 

@@ -1,0 +1,3 @@
+/home/minieye/桌面/ProjVedio/build/CMakeFiles/edit_cache.dir
+/home/minieye/桌面/ProjVedio/build/CMakeFiles/rebuild_cache.dir
+/home/minieye/桌面/ProjVedio/build/CMakeFiles/ProjVedio.dir

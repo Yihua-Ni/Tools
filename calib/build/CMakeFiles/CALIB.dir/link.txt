@@ -1,0 +1,2 @@
+/usr/bin/ar qc libCALIB.a  CMakeFiles/CALIB.dir/calib/calib.cpp.o
+/usr/bin/ranlib libCALIB.a

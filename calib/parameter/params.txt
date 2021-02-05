@@ -1,0 +1,18 @@
+/home/minieye/桌面/0727_calib/img/
+/home/minieye/桌面/0727_calib/csv/
+/home/minieye/桌面/0727_calib/log.txt
+/home/minieye/桌面/0727_calib/img_proj/
+/home/minieye/桌面/calib/result/
+128
+7 7
+100
+1000 1000
+1.4735e+03 0.0 659.3324
+0.0 1.4856e+03 524.8925
+0 0 1
+-0.4559 0.1212 0.0029 5.2151e-04
+0.05 0.01
+-5 5
+-10 5
+-5 3
+0.1

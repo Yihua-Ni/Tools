@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/minieye/Lidar_camera/dbscan/kdtree.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+math.h
+-
+pthread.h
+-
+kdtree.h
+/home/minieye/Lidar_camera/dbscan/kdtree.h
+
+/home/minieye/Lidar_camera/dbscan/kdtree.h
+

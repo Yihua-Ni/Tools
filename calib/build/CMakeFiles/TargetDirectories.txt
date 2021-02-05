@@ -1,0 +1,5 @@
+/home/minieye/桌面/calib/build/CMakeFiles/edit_cache.dir
+/home/minieye/桌面/calib/build/CMakeFiles/t.dir
+/home/minieye/桌面/calib/build/CMakeFiles/CALIB.dir
+/home/minieye/桌面/calib/build/CMakeFiles/rebuild_cache.dir
+/home/minieye/桌面/calib/build/CMakeFiles/INIT_PARAM.dir

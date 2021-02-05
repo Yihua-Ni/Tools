@@ -1,0 +1,1 @@
+/usr/bin/g++-5    -O3 -lpthread -g   CMakeFiles/test.dir/Test/test.cpp.o  -o test -rdynamic libICP.a 

@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/chapter4_test.dir/chapter4_test.cpp.o CMakeFiles/chapter4_test.dir/chapter4_test_automoc.cpp.o  -o chapter4_test -rdynamic 

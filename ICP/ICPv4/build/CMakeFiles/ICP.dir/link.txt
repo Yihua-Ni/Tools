@@ -1,0 +1,2 @@
+/usr/bin/ar qc libICP.a  CMakeFiles/ICP.dir/ICP/ICP.cpp.o
+/usr/bin/ranlib libICP.a

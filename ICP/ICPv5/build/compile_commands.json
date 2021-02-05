@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/minieye/桌面/ICP/ICPv5/build",
+  "command": "/usr/bin/g++-5    -I/usr/include/eigen3 -I/usr/local/include -I/home/minieye/桌面/ICP/ICPv5/.   -O3 -lpthread -g   -std=gnu++14 -o CMakeFiles/test.dir/Test/test.cpp.o -c /home/minieye/桌面/ICP/ICPv5/Test/test.cpp",
+  "file": "/home/minieye/桌面/ICP/ICPv5/Test/test.cpp"
+},
+{
+  "directory": "/home/minieye/桌面/ICP/ICPv5/build",
+  "command": "/usr/bin/g++-5    -I/usr/include/eigen3 -I/usr/local/include -I/home/minieye/桌面/ICP/ICPv5/.   -O3 -lpthread -g   -std=gnu++14 -o CMakeFiles/ICP.dir/ICP/ICP.cpp.o -c /home/minieye/桌面/ICP/ICPv5/ICP/ICP.cpp",
+  "file": "/home/minieye/桌面/ICP/ICPv5/ICP/ICP.cpp"
+}
+]

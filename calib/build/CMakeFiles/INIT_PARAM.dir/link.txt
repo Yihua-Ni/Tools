@@ -1,0 +1,2 @@
+/usr/bin/ar qc libINIT_PARAM.a  CMakeFiles/INIT_PARAM.dir/InitParam/params_init.cpp.o
+/usr/bin/ranlib libINIT_PARAM.a
